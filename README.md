@@ -1,1 +1,1 @@
-This repo contains test files for scraping real estate data from multiple websites!
+This repo contains test Airflow DAGs for scraping real estate data from multiple websites!
